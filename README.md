@@ -239,3 +239,6 @@ This repository serves as the official landing page for **Drawing for Children**
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Drawing for Children today!**
+
+---
+**Last updated:** 2026-09-08 00:08:01 UTC
